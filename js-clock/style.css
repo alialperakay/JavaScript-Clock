@@ -1,0 +1,16 @@
+*{margin: auto;}
+body{margin: auto;
+    background-color: black;
+    font-family: 'Overpass', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+
+.container{
+    font-size: 100px;
+    padding: 20rem;
+    text-align: center;
+    color: red;
+}
+footer{color: white;}
+a{color: red;}
